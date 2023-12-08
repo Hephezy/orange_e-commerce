@@ -36,6 +36,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Watching the database built with JSON-Server
 
+To start the server run:
+
 ```bash
 json-server --watch db.json
 ```
