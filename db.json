@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+      "id": "aB3kL9sP7T",
+      "title": "13-inch MacBook Air 256GB - Space Gray",
+      "image": "/assets/images/13-inch-macbook-air-256gb-space-gray.png",
+      "price": 999.99,
+      "description": "The 13-inch MacBook Air is a high-performance laptop with a stunning Retina display, Touch ID, and all-day battery life. Its sleek Space Gray finish and 256GB of storage make it an excellent choice for professionals and students alike. The latest model features Apple's M1 chip, which delivers incredible performance and efficiency. With 8GB of unified memory and a 7-core GPU, it handles everyday tasks and more demanding applications with ease. The MacBook Air is also environmentally friendly, with a 100% recycled aluminum enclosure.",
+      "category": "Laptops"
+    },
+    {
+      "id": "bR6nFt2Z8W",
+      "title": "AirPods Max",
+      "image": "/assets/images/airpods-max.png",
+      "price": 549.99,
+      "description": "AirPods Max redefines over-ear headphones with high-fidelity audio, Active Noise Cancellation, and spatial audio. These premium headphones feature a custom-built driver and a dynamic range that captures every detail of your music. With a comfortable fit and a variety of colors, AirPods Max are perfect for immersive listening experiences. The knit-mesh canopy and memory foam ear cushions ensure comfort for extended wear, while the Digital Crown allows precise control over volume and playback.This is edited for testing",
+      "category": "Accessories"
+    },
+    {
+      "id": "5dEaQpL8xV",
+      "title": "Apple iPhone 14 128GB - Blue",
+      "image": "/assets/images/apple-iphone-14-128gb-blue.png",
+      "price": 799.99,
+      "description": "The Apple iPhone 14 in Blue is the latest addition to the iPhone family, boasting a 128GB storage capacity and a stunning OLED display. Its A15 Bionic chip ensures blazing-fast performance, and the advanced dual-camera system allows for professional-quality photos and videos. The iPhone 14 also features 5G connectivity, providing faster download and streaming speeds. Its durable design and Ceramic Shield front cover make it resistant to drops and scratches, ensuring your phone stays in pristine condition.",
+      "category": "Phone"
+    },
+    {
+      "id": "CcV4xW9m0N",
+      "title": "Apple Watch Ultra 2",
+      "image": "/assets/images/apple-watch-ultra-2.png",
+      "price": 799.99,
+      "description": "The Apple Watch Ultra 2 is a rugged and sophisticated smartwatch designed for the most demanding environments. It features a larger and brighter Always-On Retina display, enhanced durability with a titanium case, and a range of health and fitness tracking capabilities. The Ultra 2 is perfect for outdoor adventurers, with its built-in GPS, compass, and water resistance up to 100 meters. It also includes exclusive watch faces and bands that reflect its robust nature.",
+      "category": "Watch"
+    },
+    {
+      "id": "1sTjR6aH5Y",
+      "title": "Apple iPhone 15 Pro 1TB - Blue Titanium",
+      "image": "/assets/images/apple-iphone-15-pro-1tb-blue-titanium.png",
+      "price": 1499.99,
+      "description": "The Apple iPhone 15 Pro is a masterpiece of technology, featuring a massive 1TB storage capacity and a stunning Blue Titanium finish. Its ProMotion technology delivers an adaptive refresh rate up to 120Hz, ensuring smooth scrolling and responsive touch. The triple-camera system offers unprecedented photo and video capabilities, including Night mode and Deep Fusion. The A16 Bionic chip provides unparalleled performance, making the iPhone 15 Pro the ultimate device for power users.",
+      "category": "Phone"
+    },
+    {
+      "id": "u8iG2qRt7E",
+      "title": "11-inch iPad Pro 512GB - Space Gray",
+      "image": "/assets/images/11-inch-ipad-pro-512gb-space-gray.png",
+      "price": 1099,
+      "description": "The 11-inch iPad Pro is a powerhouse of creativity and productivity. With 512GB of storage, it's ready to store all your creative projects and documents. The Liquid Retina display with ProMotion, True Tone, and P3 wide color gives you a stunning visual experience. The M1 chip provides the performance you need to run professional apps. With support for the 2nd generation Apple Pencil and the Magic Keyboard, the iPad Pro transforms into a versatile tool for artists, writers, and professionals.",
+      "category": "Tablets"
+    },
+    {
+      "id": "Kl7NpF3m2X",
+      "title": "AirPods Pro 2nd Generation",
+      "image": "/assets/images/airpods-pro-2nd-generation.png",
+      "price": 249,
+      "description": "The AirPods Pro 2nd Generation takes wireless earbuds to the next level. With Active Noise Cancellation and Transparency mode, you can immerse yourself in music or stay connected to your surroundings. The custom-built high-excursion Apple driver and high dynamic range amplifier deliver powerful bass and crisp high frequencies. The Adaptive EQ automatically tunes the music to the shape of your ear for a personalized listening experience. Sweat and water resistance make them perfect for any activity.",
+      "category": "Accessories"
+    },
+    {
+      "id": "V9bRzP6Y4Q",
+      "title": "Apple Watch Series 9 Aluminum",
+      "image": "/assets/images/apple-watch-series-9-aluminum.png",
+      "price": 399,
+      "description": "The Apple Watch Series 9 Aluminum is the ideal companion for a healthy life. It features a new Always-On Retina display that's 2.5x brighter outdoors when your wrist is down. The Series 9 tracks your daily activity and precisely measures all your favorite ways to work out, even underwater. With the ECG app and blood oxygen sensor, it keeps an eye on your heart and health. The aluminum case is lightweight and made from 100% recycled aerospace-grade alloy.",
+      "category": "Watch"
+    },
+    {
+      "id": "gT5sA2wL1J",
+      "title": "Apple iPhone 15 Pro Max 256GB - Natural Titanium",
+      "image": "/assets/images/apple-iphone-15-pro-max-256gb-natural-titanium.png",
+      "price": 1299,
+      "description": "The Apple iPhone 15 Pro Max in Natural Titanium is the ultimate expression of innovation and design. With 256GB of storage, it offers ample space for all your needs. The Super Retina XDR display with ProMotion makes everything feel responsive and looks incredible. The Pro camera system takes low-light photography to the next level with an even larger jump on the Ultra Wide camera. The A16 Bionic chip is the fastest chip ever in a smartphone, delivering unmatched speed and efficiency.",
+      "category": "Phone"
+    },
+    {
+      "id": "x4HbY6sJ0Z",
+      "title": "Apple iPad Air 256GB - Purple",
+      "image": "/assets/images/apple-ipad-air-256gb-purple.png",
+      "price": 749,
+      "description": "The Apple iPad Air in Purple is a stunning device that combines beauty and functionality. With 256GB of storage, it's perfect for all your apps and media. The 10.9-inch Liquid Retina display with True Tone and P3 wide color is a joy to use. The A14 Bionic chip with Neural Engine unlocks new creative possibilities with unparalleled ease and speed. The iPad Air also supports the 2nd generation Apple Pencil and Magic Keyboard, making it a versatile tool for any task.",
+      "category": "Tablets"
+    },
+    {
+      "id": "ZaQ7eD1c3B",
+      "title": "Apple TV 4K Wi-Fi",
+      "image": "/assets/images/apple-tv-4k-wifi.png",
+      "price": 179.99,
+      "description": "The Apple TV 4K Wi-Fi brings the cinematic experience right into your living room. With support for 4K HDR content, you can enjoy your favorite movies and shows in stunning detail and vibrant colors. The device is powered by the A12 Bionic chip, providing a smooth and fast user interface and high-quality gaming experiences. With Wi-Fi connectivity, you can easily stream content from various services, and with the inclusion of Apple's tvOS, you have access to a vast library of apps and games. The Apple TV 4K also acts as a home hub, allowing you to control your HomeKit-enabled devices with ease.",
+      "category": "Tv"
+    },
+    {
+      "id": "9mNfR5sV6K",
+      "title": "Apple Pencil 1st Generation",
+      "image": "/assets/images/apple-pencil-1st-generation.png",
+      "price": 99.99,
+      "description": "The Apple Pencil 1st Generation is an intuitive and precise tool for creativity and productivity. Designed to work seamlessly with compatible iPad models, it offers a natural drawing and writing experience with pressure sensitivity and minimal latency. The Apple Pencil is perfect for taking notes, sketching ideas, or marking up documents. Its lightweight design and long battery life make it an essential accessory for students, artists, and professionals who want to get the most out of their iPad.",
+      "category": "Accessories"
+    },
+    {
+      "id": "l3pYqW8a2D",
+      "title": "14-inch MacBook Pro 12-core 1TB - Space Black",
+      "image": "/assets/images/14-inch-macbook-pro-12-core-1tb-space-black.png",
+      "price": 2399.99,
+      "description": "The 14-inch MacBook Pro in Space Black is a powerhouse designed for the most demanding tasks. Featuring a 12-core CPU and 16-core GPU, it's capable of handling complex workflows in video editing, 3D rendering, and software development. The 1TB SSD provides ample storage for large files and projects, while the stunning Liquid Retina XDR display offers incredible contrast and color accuracy. With a battery life of up to 17 hours and a host of ports for connectivity, this MacBook Pro is the ultimate tool for creative professionals.",
+      "category": "Laptops"
+    },
+    {
+      "id": "Dc6Sv2xG5F",
+      "title": "Silver Lamicall Adjustable Laptop Riser",
+      "image": "/assets/images/silver-lamicall-adjustable-laptop-riser.png",
+      "price": 49.99,
+      "description": "The Silver Lamicall Adjustable Laptop Riser is a sleek and sturdy stand designed to elevate your laptop to an ergonomic viewing angle. Made of high-quality aluminum, it provides a stable platform for laptops up to 17 inches. The adjustable height and tilt allow you to find the perfect position to reduce neck and eye strain. The open design enhances airflow, keeping your laptop cool during extended use. It's an ideal accessory for home offices, remote work, or any workspace where comfort and productivity are paramount.",
+      "category": "Accessories"
+    },
+    {
+      "id": "Rt1yLp7W9M",
+      "title": "15-inch MacBook Air 2TB - Midnight",
+      "image": "/assets/images/15-inch-macbook-air-2tb-midnight.png",
+      "price": 2499.99,
+      "description": "The 15-inch MacBook Air in Midnight is a stunning addition to the MacBook lineup, offering a large, immersive screen and a generous 2TB of storage. The sleek design and Midnight finish make it a head-turner, while the advanced M1 chip ensures blazing-fast performance. With a battery life that lasts up to 18 hours, you can work or play all day without needing to recharge. Whether you're a professional creative, a student, or someone who demands the best from their technology, the 15-inch MacBook Air is up to the task.",
+      "category": "Laptops"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Laptops",
+      "image": "/assets/images/14-inch-macbook-pro-12-core-1tb-space-black.png"
+    },
+    {
+      "title": "Phone",
+      "image": "/assets/images/apple-iphone-15-pro-max-256gb-natural-titanium.png"
+    },
+    {
+      "title": "Tv",
+      "image": "/assets/images/apple-tv-4k-wifi.png"
+    },
+    {
+      "title": "Accessories",
+      "image": "/assets/images/silver-lamicall-adjustable-laptop-riser.png"
+    },
+    {
+      "title": "Watch",
+      "image": "/assets/images/apple-watch-series-9-aluminum.png"
+    },
+    {
+      "title": "Tablets",
+      "image": "/assets/images/apple-ipad-air-256gb-purple.png"
+    }
+  ]
+}
